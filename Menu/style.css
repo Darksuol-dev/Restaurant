@@ -1,0 +1,28 @@
+img{
+    width: 100%;
+}
+
+.fdn{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.dishes{
+    border: 1px solid #b5b4b4;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.box1{
+    padding-bottom: 90px;
+}
+
+.options{
+    font-size: 20px;
+    padding: 0px 20px;
+}
+
+.m-link{
+    color: black !important;
+}
